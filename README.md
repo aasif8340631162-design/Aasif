@@ -23,3 +23,14 @@ Exploring backend development
 "Consistency beats intensity. Every commit is a step forward."
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-aasif-0617b1330" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/MdAasif_365/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
